@@ -7,5 +7,6 @@ Stacks
 Desenvolvimento backend: Java (8 e 17), Spring Boot, JPA, Hibernate, JUnit.
 
 Desenvolvimento Web: JavaServer Faces.
+
 DB: MySQL, PostgreSQL.
 
